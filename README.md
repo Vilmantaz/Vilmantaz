@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vilmantaz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on coding society
 - 📫 How to reach me: u can mail me 😉
 
